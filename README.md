@@ -14,8 +14,8 @@ Ensure you have `curl` and `tar` or `unzip` installed on your system.
 
 ## Installation option 2
 
-1. Download file https://raw.githubusercontent.com/denisklp/secret-check-pre-commit/main/secret-check.sh
-2. Move downloaded file to .git/hooks/
+1. Download file https://raw.githubusercontent.com/denisklp/secret-check-pre-commit/main/pre-commit
+2. Move downloaded file to .git/hooks/pre-commit
 2. Make the script executable:
 
     ```bash
